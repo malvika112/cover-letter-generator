@@ -20,8 +20,8 @@ Ensure you have the following installed on your system:
 
 1. **Clone the repository** (or download the code):
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone [<repository-url>](https://github.com/malvika112/cover-letter-generator)
+   cd [<repository-directory>](https://github.com/malvika112/cover-letter-generator)
    ```
 
 2. **Install the required Python packages**:
